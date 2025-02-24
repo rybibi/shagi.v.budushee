@@ -1,0 +1,21 @@
+ body {background-repeat:no repeat;
+ 	   background-attachment:fixed;
+       background-color: #B9B5B2;
+ 	   
+    text-align: center; /* Выравнивание по центру */
+    font-style: bold; 
+    margin: 0px
+    }
+
+  p{color:#F32525;
+   font-size: 30px;
+   font-family:Aria,calibry;
+   font-weight:10pt;
+    }
+  
+a{
+       color: #fff;
+       text-decoration: none;
+}
+
+ 
